@@ -2,6 +2,20 @@
   text-align: center;
 }
 
+.Nav{
+  
+
+}
+.login{
+  border: 2px solid black;
+  border-radius: 5px;;
+  box-shadow: 2px 8px 8px grey;
+  padding:2%;
+  display:flex;
+  flex-direction: column;
+  margin:10% 20%;
+  width:30%;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
